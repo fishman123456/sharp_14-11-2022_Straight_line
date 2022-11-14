@@ -1,8 +1,10 @@
 ﻿
 
+using System.Drawing;
+
 namespace sharp_14_11_2022_Straight_line
 {
-    internal class C_Point <T>
+    internal class C_Point <T>  
     {
         public T x1 { get; set; }
         public T y1 { get; set; }
