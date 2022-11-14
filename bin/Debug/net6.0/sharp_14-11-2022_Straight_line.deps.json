@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "sharp_14-11-2022_Straight_line/1.0.0": {
+        "runtime": {
+          "sharp_14-11-2022_Straight_line.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sharp_14-11-2022_Straight_line/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
