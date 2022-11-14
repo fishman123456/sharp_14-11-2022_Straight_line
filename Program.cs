@@ -12,10 +12,12 @@ class Program
 {
     static void Main(string[] args)
     {
-        C_Point p1 = new C_Point(10, 10);
-        C_Point p2 = new C_Point(100, 100);
+        C_Point <int>p1 = new C_Point<int>  (10, 10);
+        C_Point <int>p2 = new C_Point<int>(100, 100);
 
-        P_Line L1= new P_Line();
-        Console.WriteLine(p1+ " " + p2);
+        P_Line <int> F= new P_Line<int> (p1, p2);
+       
+       // Console.WriteLine(p1+ " " + p2);
+        Console.WriteLine(F.ToString());
     }
 }

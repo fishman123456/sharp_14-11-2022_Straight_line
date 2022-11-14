@@ -13,3 +13,18 @@ C:\Users\Fishman.DB.CORP\Documents\GitHub\sharp_14-11-2022_Straight_line\obj\Deb
 C:\Users\Fishman.DB.CORP\Documents\GitHub\sharp_14-11-2022_Straight_line\obj\Debug\net6.0\sharp_14-11-2022_Straight_line.pdb
 C:\Users\Fishman.DB.CORP\Documents\GitHub\sharp_14-11-2022_Straight_line\obj\Debug\net6.0\sharp_14-11-2022_Straight_line.genruntimeconfig.cache
 C:\Users\Fishman.DB.CORP\Documents\GitHub\sharp_14-11-2022_Straight_line\obj\Debug\net6.0\ref\sharp_14-11-2022_Straight_line.dll
+C:\Users\profi\Documents\Git Hub\sharp_14-11-2022_Straight_line\obj\Debug\net6.0\sharp_14-11-2022_Straight_line.csproj.AssemblyReference.cache
+C:\Users\profi\Documents\Git Hub\sharp_14-11-2022_Straight_line\obj\Debug\net6.0\sharp_14-11-2022_Straight_line.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\profi\Documents\Git Hub\sharp_14-11-2022_Straight_line\obj\Debug\net6.0\sharp_14-11-2022_Straight_line.AssemblyInfoInputs.cache
+C:\Users\profi\Documents\Git Hub\sharp_14-11-2022_Straight_line\obj\Debug\net6.0\sharp_14-11-2022_Straight_line.AssemblyInfo.cs
+C:\Users\profi\Documents\Git Hub\sharp_14-11-2022_Straight_line\obj\Debug\net6.0\sharp_14-11-2022_Straight_line.csproj.CoreCompileInputs.cache
+C:\Users\profi\Documents\Git Hub\sharp_14-11-2022_Straight_line\obj\Debug\net6.0\sharp_14-11-2022_Straight_line.dll
+C:\Users\profi\Documents\Git Hub\sharp_14-11-2022_Straight_line\obj\Debug\net6.0\refint\sharp_14-11-2022_Straight_line.dll
+C:\Users\profi\Documents\Git Hub\sharp_14-11-2022_Straight_line\obj\Debug\net6.0\sharp_14-11-2022_Straight_line.pdb
+C:\Users\profi\Documents\Git Hub\sharp_14-11-2022_Straight_line\bin\Debug\net6.0\sharp_14-11-2022_Straight_line.exe
+C:\Users\profi\Documents\Git Hub\sharp_14-11-2022_Straight_line\bin\Debug\net6.0\sharp_14-11-2022_Straight_line.deps.json
+C:\Users\profi\Documents\Git Hub\sharp_14-11-2022_Straight_line\bin\Debug\net6.0\sharp_14-11-2022_Straight_line.runtimeconfig.json
+C:\Users\profi\Documents\Git Hub\sharp_14-11-2022_Straight_line\bin\Debug\net6.0\sharp_14-11-2022_Straight_line.dll
+C:\Users\profi\Documents\Git Hub\sharp_14-11-2022_Straight_line\bin\Debug\net6.0\sharp_14-11-2022_Straight_line.pdb
+C:\Users\profi\Documents\Git Hub\sharp_14-11-2022_Straight_line\obj\Debug\net6.0\sharp_14-11-2022_Straight_line.genruntimeconfig.cache
+C:\Users\profi\Documents\Git Hub\sharp_14-11-2022_Straight_line\obj\Debug\net6.0\ref\sharp_14-11-2022_Straight_line.dll
